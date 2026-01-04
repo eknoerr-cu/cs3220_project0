@@ -1,8 +1,8 @@
 # Project 0 Wireframe Annotations
 
 ## Team Information
-- Team name: PlanAhead
-- Team members: Alice Chen, Marcus Rivera
+- Team name: Disciple Makers
+- Team members: Peter, James, John
 - Date: September 12, 2025
 - Wireframe tool used: HTML (provided wireframe template)
 
