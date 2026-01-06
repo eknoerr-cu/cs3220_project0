@@ -20,8 +20,8 @@ Briefly describe the purpose of the global header and what information or action
 
 **Elements included:**
 - [ ] Application title
-- [ ] Global navigation links
-- [ ] User status / login indicator
+- [ ] Navigation links
+- [ ] User information / status
 
 **User stories supported:**
 - US-__ :
@@ -37,7 +37,7 @@ If yes, briefly explain (e.g., session/user API).
 
 ---
 
-## Content Well 1 — Course Discovery
+## Content Well 1 — Finder (Course Discovery)
 **Purpose of this well:**  
 (What problem does this well solve for the user?)
 
@@ -68,7 +68,7 @@ If yes, list likely endpoints (e.g., `GET /courses`).
 
 ---
 
-## Content Well 2 — My Plan / Schedule
+## Content Well 2 — Plan (4-year schedule)
 **Purpose of this well:**
 
 **UI elements included:**
@@ -99,7 +99,7 @@ If yes, explain persistence needs (e.g., save plan to database).
 
 ---
 
-## Content Well 3 — Course Details / Inspector
+## Content Well 3 — Requirements (Course Details / Inspector)
 **Purpose of this well:**
 
 **UI elements included:**
@@ -125,7 +125,7 @@ If yes, list likely endpoints (e.g., `GET /courses/{id}`).
 
 ---
 
-## Content Well 4 — Alerts & Actions
+## Content Well 4 — Status (Alerts & Actions)
 **Purpose of this well:**
 
 **UI elements included:**
