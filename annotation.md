@@ -4,7 +4,7 @@
 - Team name:
 - Team members:
 - Date:
-- Wireframe tool used (HTML / Pencil / Penpot / other):
+- Wireframe tool used (HTML / Pencil / other):
 
 ---
 
@@ -74,7 +74,7 @@ If yes, list likely endpoints (e.g., `GET /courses`).
 **UI elements included:**
 - [ ] Selected course list
 - [ ] Credit total
-- [ ] Conflict indicators
+- [ ] Current semester
 - [ ] Save / clear actions
 
 **User stories supported:**
@@ -103,20 +103,18 @@ If yes, explain persistence needs (e.g., save plan to database).
 **Purpose of this well:**
 
 **UI elements included:**
-- [ ] Course description
-- [ ] Instructor
-- [ ] Meeting times
-- [ ] Prerequisites
+- [ ] Major / minor specific courses
+- [ ] Electives / GenEds
 
 **User stories supported:**
 - US-__ :
 - US-__ :
 
 **Inputs:**
-- Example: selected course ID from Well 1
+- Example: planned / taken courses from Well 2
 
 **Outputs / displayed data:**
-- Example: full course metadata
+- Example: full major metadata
 
 **Backend required?**
 - [ ] Yes
@@ -129,16 +127,15 @@ If yes, list likely endpoints (e.g., `GET /courses/{id}`).
 **Purpose of this well:**
 
 **UI elements included:**
-- [ ] Conflict warnings
-- [ ] Seat availability alerts
-- [ ] Registration or export actions
+- [ ] Prerequisite warnings
+- [ ] Missing requirements / credits hours
 
 **User stories supported:**
 - US-__ :
 - US-__ :
 
 **Triggers:**
-- Example: adding a conflicting course, exceeding credit limit
+- Example: adding a course with a missing prerequisite, exceeding credit limit
 
 **Backend required?**
 - [ ] Yes
