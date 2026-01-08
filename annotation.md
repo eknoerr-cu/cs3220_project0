@@ -162,14 +162,6 @@ List assumptions made during wireframing and any unresolved questions.
 
 ---
 
-## Mapping to MVP Backlog
-Briefly explain how this wireframe supports the MVP scope.
-
-- Must-have features represented:
-- Features intentionally excluded or deferred:
-
----
-
 ## Accessibility Notes (Brief)
 List at least two accessibility considerations reflected in the wireframe.
 
@@ -182,4 +174,4 @@ List at least two accessibility considerations reflected in the wireframe.
 - [ ] All four content wells are clearly defined
 - [ ] Each well maps to at least one user story
 - [ ] Backend needs are identified
-- [ ] Wireframe matches user stories and MVP backlog
+- [ ] Wireframe matches user stories
