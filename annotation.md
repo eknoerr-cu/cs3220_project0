@@ -1,4 +1,4 @@
-# Project 0 Wireframe Annotations
+# Wireframe Annotations
 
 ## Team Information
 - Team name:
