@@ -1,4 +1,4 @@
-# Project 0 Stakeholder Interviews
+# Stakeholder Interviews
 
 ## Interview 1
 
