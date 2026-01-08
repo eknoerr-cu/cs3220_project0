@@ -1,4 +1,4 @@
-# Project 0 Personas
+# Personas
 
 **Persona 1: “Pete the Planner”**
 - Age: 21
